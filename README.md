@@ -6,6 +6,12 @@ Spoof DPI'ın bu sürümü **Türkiye'de** kullanılmak üzere yapılandırılm�
 
 ![image](https://user-images.githubusercontent.com/45588457/148035986-8b0076cc-fefb-48a1-9939-a8d9ab1d6322.png)
 
+## 📚 Dokümantasyon
+
+- **[HAKKINDA.md](HAKKINDA.md)** - SpoofDPI nedir? Nasıl çalışır? VPN vs SpoofDPI karşılaştırması
+- **[MACOS_KURULUM.md](MACOS_KURULUM.md)** - macOS için detaylı kurulum kılavuzu
+- **[_docs/INSTALL.md](_docs/INSTALL.md)** - Genel kurulum dokümanı
+
 # Kurulum
 Direkt olarak [releases](https://github.com/renardev/SpoofDPI-Turkiye/releases) bölümünden indirebilir veya
 [Buradan](https://github.com/renardev/SpoofDPI-Turkiye/blob/main/_docs/INSTALL.md) kurulum aşamalarını takip edebilirsiniz.
